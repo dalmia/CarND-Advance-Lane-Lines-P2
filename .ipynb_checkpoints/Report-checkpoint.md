@@ -1,13 +1,4 @@
-## Advanced Lane Finding
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-![Lanes Image](./media/examples/result_test3.jpg)
-
-In this project, your goal is to write a software pipeline to identify the lane boundaries in an image as shown in the example above:
-
-
-The Project
----
-
+## Project 2 - Advanced Lane Lanes
 
 The goals / steps of this project are the following:
 
