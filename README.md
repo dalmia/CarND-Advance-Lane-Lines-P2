@@ -2,8 +2,9 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ![Lanes Image](./media/examples/result_test3.jpg)
 
-In this project, your goal is to write a software pipeline to identify the lane boundaries in an image as shown in the example above:
-
+In this project, the goal is to write a software pipeline to identify the lane boundaries in an 
+image as shown in the example above. The details about the entire pipeline is given below with
+pointers to specific section of the code and intermediate outputs.
 
 The Project
 ---
